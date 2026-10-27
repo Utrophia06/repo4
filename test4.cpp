@@ -4,11 +4,11 @@ using namespace std;
    string name ; 
    cout << "what is your name" << endl ;
    cin >> name ;
-    cout << name + " love physics" << endl ;
+    cout << name + " hate physics" << endl ;
 
 
 
 
-    
+
     return 0 ;
  }
