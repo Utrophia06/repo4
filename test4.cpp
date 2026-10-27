@@ -6,9 +6,5 @@ using namespace std;
    cin >> name ;
     cout << name + " hate physics" << endl ;
 
-
-
-
-
     return 0 ;
  }
