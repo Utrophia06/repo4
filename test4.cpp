@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
  int main () {
-    cout << "i hate physics" << endl ;
+    cout << "i love physics" << endl ;
     return 0 ;
  }
